@@ -1,0 +1,14 @@
+- instrument not 100% comparable to previous research
+- unstandardised instruments
+- only one game
+- web-experiments (accuracy)
+- questionable blinding
+- very self-selective sample
+-'candy' between the experiments -> influence motivation (response was very positive)
+
+Due to the game:
+- it was difficult to recruit from all the regions
+- decay: ratings vary also due to inactivity, not due to player performance
+- the season was just about to come into end -> this could have been a good or a bad thing:
+    - more active pvp players, but ratings might not be representative of the team's typical rating throughout the season
+    - limited time for sampling

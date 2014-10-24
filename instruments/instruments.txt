@@ -1,0 +1,113 @@
+INSTRUMENTS
+
+All of the instruments were written in JavaScript on top of the Node.js platform, with Express web-framework, hosted on Digital Oceans. The spatial working memory task was written as a stand-alone application, and modified plugins of the jsPsych-library (de Leeuw, 2014) were used for the other experiments. All of the experimends, the plugins, the backend structure and descriptions of the dependencies for the experiment can be found in Pöllänen (2014). A few things to note about the experiment was that the participants were asked to use a mouse, but in the absence of one, all of the tasks could be completed with a trackpad. To make sure the data was comparable, access with mobile devices was blocked to all parts of the experiment.
+
+
+INVENTORIES
+
+The Group Environment Questionnaire (GEQ) was chosen as a measure of group cohesion because it is well established with a long history of use in sports psychology and group research, with recent evidence suggesting adequate multilevel factorial validity. An instrument from sports psychology was preferred over those from organizational psychology, as interviews with players indicated that the items meant for athletic teams were considered more relevant to their gameplay experience. The players' satisfaction with the instrument drove the decision of not developing a new instrument for the purpose, but rather attempting to repurposing the GEQ. The items were modified slightly to match the context of virtual games (e.g. using the word "players" instead of "athletes"), and the modified items can be found in Appendix 1. The goodness-of-fit of a sports psychology inventory for the purpose of this study is something that should be taken into account in interpreting the results of this study. 
+
+The NASA Task Load Inventory (TLX) was selected as a well-established, short inventory with good metric characteristics (Hart & Staveland, 1988; Hart, 2006). The instrument originally consisted of two parts. In the first part, six sub-scales are presented on a single page, with the following description of each of the scale:
+
+    Mental Demand: How much mental and perceptual activity was required? Was the task easy or demanding, simple or complex?
+    Physical Demand: How much physical activity was required? Was the task easy or demanding, slack or strenuous?
+    Temporal Demand: How much time pressure did you feel due to the pace at which the tasks or task elements occurred? Was the pace slow or rapid?
+    Performance: How successful were you in performing the task? How satisfied were you with your performance?
+    Frustration: How irritated, stressed, and annoyed versus content, relaxed, and complacent did you feel during the task?
+    Effort: How hard did you have to work (mentally and physically) to accomplish your level of performance?
+
+The items are rated on a 100-points range with 5-points increments. In the original version, the second part of the inventory creates individual weighing by importance for each of the six subscales by prompting the subjects to compare the categories pairwise based on their perceived importance for the task load. The estimated task loads are then weighed according to their importance. The version used for this study, however, consists of only the first part of the original test, without the pairwise comparisons. This modification was done to simplify the study design, with evidence indicating that this procedure (referred to as the Raw TLX) is as sensitive as the original instrument (Hart, 2006).
+
+
+COGNITIVE TASKS
+
+A major difficulty in selecting instruments for the cognitive tasks was a lack of prior literature on the topic of differential performance in expert video-game players. There is a body of literature discussing differences between non-gamers and gamers, differences between novice and expert gamers, and training effects from game play, but none on differences in performance between expert gamers and their teams. Nevertheless, I used previous literature on video game training effects and literature comparing expert gamers with novices to guide my decision-making, and decided to program four cognitive tasks: the Eriksen flanker task, a mental rotation task, a spatial span task, and the Tower of London. 
+
+
+Two conflict-tasks have previously been used in game studies: slightly different versions of the Eriksen flanker (Eriksen & Eriksen, 1974) task and the Stroop-task.
+The Stroop task has been used before by e.g. Maillot, Perrot and Hartley (2012); and Anderson, Bailey and West (2012). Maillot et al. (2012) found that older adults in their study improved significantly in their performance on resisting the interference following video game play. Anderson et al. (2010) compared players with different levels of experience and discovered no difference between less experienced and more experienced gamers in the Stroop interference effect, but did find a negative association between video game experience and proactive cognitive control.
+A task similar to the flanker task here (Attentional Network Test, ANT) was used by Dye, Green and Bavelier (2009), who discovered that action video game players made faster correct responses to targets with less interference from the distracting arrows. Best (2012) used a children's version of the ANT to discover that exergaming enhances children's speed in resolving interference from conflicting visuospatial stimuli.
+ Since my participant pool is international, I decided for the flanker task, as the fact that the participants are not all native speakers of English could influence the amount of interference in the Stroop task. The Flanker task used for this experiment was programmed roughly in a similar manner to the Flanker task in the PEBL library (Mueller & Piper, 2014), which was based on Stins, Polderman, Boomsma and deGeus (2007).
+
+    
+A two-dimensional mental rotation task.
+    Different mental rotation tasks have previously been used in game research, for different purposes. Boot et al. (2008) discovered that trained players  were no faster but were more accurate than non-trained players in a mental rotation task, and that playing Tetris led to the greatest improvement. Okagaki and Frensch (1994) also used Tetris, but discovered an improvement in mental rotation time, rather than accuracy. In their study on older adults, Maillot et al. (2012) discovered no improvement of game training on their visuospatial measures (including the mental rotation task). 
+
+    The mental rotation task used in this study had three types of two-dimensional stimuli. Stimulus A consisted of one long line, perpendicularly intersected by two short ones. Stimulus B and C were similar to the stimulus A, except that they had one and two diagonal lines added to them, respectively. During the task, the participants were presented with an unrotated version of the target stimulus, and a version of the stimulus that was either an identical or mirrored version of the target, and rotated 0, 60, 120, 180, 240 or 300 degrees. The two images were displayed side-by-side, and the target stimulus was randomly displayed on either left or right siide. The participant was instructed to assess as quickly and accurately as possible, whether the rotated image was identical or a mirror image of the target, and to press Q if they were identical and P if mirrored.
+
+
+A spatial span task for assessing spatial working memory
+
+The spatial span task was programmed similar to that of Owen and Hampshire (n.d.) as a variation of the Corsi block tapping task (Corsi, 1972). The stimuli were displayed as flashing rectangles in a four-times-four matrix of elements. After the stimulus was generated, the participant had to click on the boxes in the same order in which they flashed. The first stimulus had a length of four blocks, trial difficulty was lowered after two failures on the same stimulus length and increased after successful completion. The task was concluded after four failures.
+
+    Visuo-spatial working memory tasks have been used in game studies before, e.g. by Maillot, Perrot and Hartley (2012); Boot, Framer, Simons, Fabiani and Gratton (2008); and Okagaki and Frensch (1994).
+
+    In their study on older adults, Maillot et al. (2012) found no improvement of interactive physical-activity video-game training on a spatial span task. In their visual short-term memory test, Boot et al. (2008) discovered that experts players far outperformed non-gamers in a spatial span measure, but there was no difference between longitudinal groups, so the training effect was not clear. On their working memory operation span test, however, Boot et al. (2008) found no difference between experts and novices, and on their spatial 2-back task, experts were faster but no more accurate, with longitudinal groups improving with practice. Boot et al.'s (2008) findings imply some importance of visuo-spatial working memory functions for gameplay, but I find it interesting, how different tasks brought up such different results.
+
+
+
+    Maillot, P., Perrot, A. & Hartley, A. (2012). Effects of interactive physical-activity video-game training on physical and cognitive function in older adults. Psychology and Aging, 27(3), 589-600.
+    FINDINGS: No improvement on visuospatial measures
+
+    VISUAL STM: Boot, W. R., Framer, A. F., Simons, D. J., Fabiani, M. & Gratton, G. (2008). The effects of video game playing on attention, memory and executive control. Acta Psychologica, 129, 387-398.
+    FINDINGS: experts far outperformed non-gamers, no differences between longitudinal groups
+
+    SPATIAL 2-back (spatial processing and spatial memory)
+    FINDINGS: experts were faster but no more accurate. Longitudinal groups got faster with practice.
+
+    CORSI Block-tapping: Boot, W. R., Framer, A. F., Simons, D. J., Fabiani, M. & Gratton, G. (2008). The effects of video game playing on attention, memory and executive control. Acta Psychologica, 129, 387-398.
+    FINDINGS: no difference between experts and non-gamers. Longitudinal groups improved with retest.
+
+    working memory operation span: Boot, W. R., Framer, A. F., Simons, D. J., Fabiani, M. & Gratton, G. (2008). The effects of video game playing on attention, memory and executive control. Acta Psychologica, 129, 387-398. 
+    FINDINGS: expert gamers did not differ from novices
+
+    Okagaki, L., & Frensch, P. A. (1994). Effects of video game playing on measures of spatial performance: Gender effects in late adolescence. Journal of Applied Developmental Psychology, 15(1), 33-58.
+    FINDINGS: playing tetris improves mental rotation time and spatial visualization time
+
+
+
+
+the Tower of London test.
+    Boot, Framer, Simons, Fabiani and Gratton (2008) used the London Tower test. Unfortunately, the authors did no comparison between expert and novice gamers, but only looked at their longitudinal training groups, all of which improved the same. I decided to use the Tower of London despite of of its low presence in prior literature, because gameplay in League of Legends often involves the planning and execution of abilities or behaviors in a meaningful sequence in a setting where speed and accuracy is important.
+
+    The Tower of London task consisted of twenty-two pairs of images. The image A displayed a starting point with three pegs of different lengths and of three balls of different colors, and image B displayed an ending point with a final layout. The participant was asked to assess the smallest amount of moves they could use to get from the layout in image A to the layout in image B, and to respond by pressing the corresponding key on the keyboard. The moves required for the trials varied between one and six.
+
+
+
+
+Green, C. S., & Bavelier, D. (2003). Action video-game modifies visual selective attention. Nature, 423, 534-537. doi: 10.1038/ nature01647.
+
+Corsi, P.M.(1972), Human memory and the medial temporal region of the brain, Unpublished doctoral dissertation. McGill University.
+
+Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise leters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics, 16, 143-149.
+
+Hart, S. G. & Staveland, L. E. (1988). Development of NASA-TLX (Task Load Index): Results of empirical and theoretical research. In: Human Mental Workload (P. A. Hancock and N. Meshkati (Eds.)), 139-183. North-Holland: Elsevier Science. 
+
+Fletcher, R. B. & Whitton, S. M. (2014). The Group Environment Questionnaire: A Multilevel Confirmatory Factor Analysis.
+Small Group Research, 45(1), 68-88. doi: 10.1177/1046496413511121
+
+de Leeuw, J.R. (2014). jsPsych: A JavaScript library for creating behavioral experiments in a Web browser. Behavior Research Methods. Advance online publication. doi:10.3758/s13428-014-0458-y
+
+Hart, S. (2006). Nasa-Task Load Index (Nasa-TLX); 20 Years Later. Human Factors and Ergonomics Society Annual Meeting Proceedings, 50, 904-908.
+
+Pöllänen, T. (2014). Test battery of JS cognitive tasks written using jsPsych for my master's thesis. Github repository. Retrieved from https://github.com/tuuleh/masters-battery.
+
+Owen, A. M. & Hampshire, A. (n.d.). Spatial span ladder [software for online web-based testing]. Cambridge Brain Sciences Inc, University of Western Ontario, Canada. Retrieved from http://www.cambridgebrainsciences.com/browse/memory/test/spatial-span-ladder. 
+
+Feng, J., Spence, I. & Pratt, J. (2007). Playing an action video game reduces gender differences in spatial cognition. Psychological science, 18(10), 850-855.
+
+Maillot, P., Perrot, A. & Hartley, A. (2012). Effects of interactive physical-activity video-game training on physical and cognitive function in older adults. Psychology and Aging, 27(3), 589-600.
+
+Anderson, C. A., Bailey, K. & West, R. (2010). A negative association between video game experience and proactive cognitive control. Psychophysiology, 47, 34/42.
+
+Dye, M.W.G., Green, C.S., & Bavelier, D. (2009). The development of attention skills in action video game players. Neuropsychologia, 47(8-9), 1780-1789. doi:10.1016/j.neuropsychologia.2009.02.002.
+
+Boot, W. R., Framer, A. F., Simons, D. J., Fabiani, M. & Gratton, G. (2008). The effects of video game playing on attention, memory and executive control. Acta Psychologica, 129, 387-398.
+
+Okagaki, L., & Frensch, P. A. (1994). Effects of video game playing on measures of spatial performance: Gender effects in late adolescence. Journal of Applied Developmental Psychology, 15(1), 33-58.
+
+Stins, J. F., Polderman, T. J. C., Boomsma, D. I., & de Geus, E. J. C. (2007). Conditional accuracy in response interference tasks: Evidence from the Eriksen flanker task and the spatial conflict task. Advances in Cognitive Psychology 3 (3), 389–396.
+
+Mueller, S. T., & Piper, B. J. (2014). The Psychology Experiment Building Language (PEBL) and PEBL Test Battery. Journal of neuroscience methods (222), 250–259.
+
+Best, J. R. (2012). Exergaming immediately enhances children's executive function. Developmental Psychology, 48(5), 1501-1510.

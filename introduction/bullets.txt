@@ -1,0 +1,4 @@
+- sample sizes in prior research are small
+- unclear difference between novice vs. expert players
+- fuzzy differences between video game genres, experts recruited from a number of different genres
+- gender differences in novice vs. expert player split (e.g. Boot et al. (2008) - all experts and novices male, all controls female)
