@@ -42,27 +42,7 @@ The spatial span task was programmed similar to that of Owen and Hampshire (n.d.
 
     Visuo-spatial working memory tasks have been used in game studies before, e.g. by Maillot, Perrot and Hartley (2012); Boot, Framer, Simons, Fabiani and Gratton (2008); and Okagaki and Frensch (1994).
 
-    In their study on older adults, Maillot et al. (2012) found no improvement of interactive physical-activity video-game training on a spatial span task. In their visual short-term memory test, Boot et al. (2008) discovered that experts players far outperformed non-gamers in a spatial span measure, but there was no difference between longitudinal groups, so the training effect was not clear. On their working memory operation span test, however, Boot et al. (2008) found no difference between experts and novices, and on their spatial 2-back task, experts were faster but no more accurate, with longitudinal groups improving with practice. Boot et al.'s (2008) findings imply some importance of visuo-spatial working memory functions for gameplay, but I find it interesting, how different tasks brought up such different results.
-
-
-
-    Maillot, P., Perrot, A. & Hartley, A. (2012). Effects of interactive physical-activity video-game training on physical and cognitive function in older adults. Psychology and Aging, 27(3), 589-600.
-    FINDINGS: No improvement on visuospatial measures
-
-    VISUAL STM: Boot, W. R., Framer, A. F., Simons, D. J., Fabiani, M. & Gratton, G. (2008). The effects of video game playing on attention, memory and executive control. Acta Psychologica, 129, 387-398.
-    FINDINGS: experts far outperformed non-gamers, no differences between longitudinal groups
-
-    SPATIAL 2-back (spatial processing and spatial memory)
-    FINDINGS: experts were faster but no more accurate. Longitudinal groups got faster with practice.
-
-    CORSI Block-tapping: Boot, W. R., Framer, A. F., Simons, D. J., Fabiani, M. & Gratton, G. (2008). The effects of video game playing on attention, memory and executive control. Acta Psychologica, 129, 387-398.
-    FINDINGS: no difference between experts and non-gamers. Longitudinal groups improved with retest.
-
-    working memory operation span: Boot, W. R., Framer, A. F., Simons, D. J., Fabiani, M. & Gratton, G. (2008). The effects of video game playing on attention, memory and executive control. Acta Psychologica, 129, 387-398. 
-    FINDINGS: expert gamers did not differ from novices
-
-    Okagaki, L., & Frensch, P. A. (1994). Effects of video game playing on measures of spatial performance: Gender effects in late adolescence. Journal of Applied Developmental Psychology, 15(1), 33-58.
-    FINDINGS: playing tetris improves mental rotation time and spatial visualization time
+    Okagaki and Frensch (1994) discovered that playing tetris improves reaction times in mental rotation and spatial visualization tasks. In their study on older adults, Maillot et al. (2012) found no improvement of video-game training on a spatial span task. In their visual short-term memory test, Boot et al. (2008) discovered that expert players far outperformed non-gamers in a spatial span measure, but there was no difference between longitudinal groups, so the training effect was not clear. On their working memory operation span test, as well as on the Corsi block-tapping test, Boot et al. (2008) found no difference between experts and novices, and on their spatial 2-back task, experts were faster but no more accurate, with longitudinal groups improving with practice. The jury is out on the characteristics of training effects on spatial span tasks, but as training effects are not the subject of this study, the spatial span task was included into the battery, as Boot et al.'s (2008) findings imply some importance of visuo-spatial working memory functions for gameplay. 
 
 
 
@@ -75,7 +55,9 @@ the Tower of London test.
 
 
 
-Green, C. S., & Bavelier, D. (2003). Action video-game modifies visual selective attention. Nature, 423, 534-537. doi: 10.1038/ nature01647.
+Karle J. W., Watter S., Shedden J. M. (2010). Task switching in video game players: benefits of selective attention but not resistance to proactive interference. Acta Psychologica (Amst.) 134(1).
+
+Green, C. S., & Bavelier, D. (2003). Action video-game modifies visual selective attention. Nature, 423, 534-537.
 
 Corsi, P.M.(1972), Human memory and the medial temporal region of the brain, Unpublished doctoral dissertation. McGill University.
 
@@ -111,3 +93,9 @@ Stins, J. F., Polderman, T. J. C., Boomsma, D. I., & de Geus, E. J. C. (2007). C
 Mueller, S. T., & Piper, B. J. (2014). The Psychology Experiment Building Language (PEBL) and PEBL Test Battery. Journal of neuroscience methods (222), 250–259.
 
 Best, J. R. (2012). Exergaming immediately enhances children's executive function. Developmental Psychology, 48(5), 1501-1510.
+
+Guha, A., Jereen, A., DeGutis, J. & Wilmer, J. (2014). No action video game training effects for multiple object tracking or mental rotation. Journal of Vision, 22(14).
+
+Colzato L. S., van Leeuwen P. J. A., van den Wildenberg W. P. M., Hommel B. (2010). DOOM’d to switch: superior cognitive flexibility in players of first person shooter games. Frontiers of psychology, 1(8).
+
+Green C. S., Bavelier D. (2007). Action video game experience alters the spatial resolution of attention. Psychological Science, 18(1), 88-94.
