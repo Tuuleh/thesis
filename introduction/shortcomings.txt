@@ -3,17 +3,21 @@
 - only one game
 - web-experiments (accuracy)
 - server in San Francisco
-- questionable blinding
+- inadequate blinding, which might not be as severe as in VGP vs. NVGP studies, since everyone played video games and the population was hence more homogenic
 - very self-selective sample
 -'candy' between the experiments -> influence motivation (response was very positive)
 - limited duration of individual tasks increases alpha error probability, but was necessary to keep participant number high
 
 Due to the game:
-- it was difficult to recruit from all the regions
-- decay: ratings vary also due to inactivity, not due to player performance
+- it was difficult to recruit from all the game regions
+- decay: ratings vary also due to inactivity, not due to player performance; MMR: separate match maker rating for solo and team play
 - the season was just about to come into end -> this could have been a good or a bad thing:
     - more active pvp players, but ratings might not be representative of the team's typical rating throughout the season
     - limited time for sampling
+
+
+A few factors limit the scope of this study and should be discussed as its possible shortcomings.
+Shortcomings regrding the instruments were that they were undstandardised and not absolutely comparable to those used in previous research. The cognitive tasks were composed as JavaScript-based web experiments, and as for now, there is very little research on how JavaScript-based solutions compare to laboratory experiments.
 
 
 

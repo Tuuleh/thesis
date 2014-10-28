@@ -7,51 +7,12 @@
 When it comes to studying cognitive skills and video game play, there is quite a large body of literature looking into video game training effects on different cognitive abilities (e.g. Maillot, Perrot and Hartley (2012); Feng, Spence and Pratt (2007); Guha, Jereen. DeGutis & Wilmer (2014); Best (2012); Green & Bavelier (2003); Green & Bavelier (2007)), and comparisons between expert and novice players as well as between people who regularly play video games vs. people who do not play video games (e.g. Anderson, Bailey and West (2012); Boot, Framer, Simons, Fabiani and Gratton (2008); Dye, Green and Bavelier (2009), Green & Bavelier (2003); Green & Bavelier (2007); Colzato, van Leeuwen, van den Wildenberg and Hommel (2010); Karle, Watter and Shedden (2010)).
 
 
+There is also some research on how a team's behavior during game play relates to performance. For example, Drachen et al. (2014) researched different ways in which the spatio-temporal behavior -- the tendency of the players within a team to move around on the game area as a response to events that were taking place in game -- varies across teams with different levels of skill. They discovered that spatio-temporal behavior of teams in a MOBA game called DotA2 is highly related to the team's skill level both in terms of changing position around the terrain, and in the distance between the characters played by the team members. 
+Other researchers have also tackled the question of what makes video game teams perform well. Pobiedina, Neidhardt, Calatrava Moreno and Werthner (2013) used data from DotA2 and its community to asses factors for teams' differential performance. They discovered that the factors influencing a team's success (ranked by significance) were the number of team members that identified as each other's friends, or the social ties within the team; the team's "hero score" - how well the chosen heroes performed when it came to their win-loss ratio or the amount of resources they could gather in game; and the team's experience score as an aggregate measure of experience of the team members.
+Much less research exists on whether and how cognitive skills contribute to performance across different skill tiers, but it is meaningful to look at contributions of cognitive skills since they fill a gap in current research, and because they bridge between behavioral factors in game - e.g. the spatio-temporal functions described by Drachen et al. (2014) - and the social factors identified as significant by Pobiedina et al. (2013). It makes sense to assume that social processes within the team and the players' cognitive skills are what drive the performance on a behavioral level. 
 
 
 
-Ball K., Berch D. B., Helmers K. F., Jobe J. B., Leveck M. D., Marsiske M., Morris J. N., Rebok G. W., Smith D. M., Tennstedt S. L., Unverzagt F. W., Willis S. L., Advanced Cognitive Training for Independent and Vital Elderly Study Group (2002). Effects of cognitive training interventions with older adults: a randomized controlled trial. JAMA 288, 2271–2281 [PMC free article] [PubMed]
-
-Basak C., Boot W. R., Voss M., Kramer A. F. (2008). Can training in a real-time strategy videogame attenuate cognitive decline in older adults? Psychol. Aging 23, 765–77710.1037/a0013494 [PMC free article] [PubMed] [Cross Ref]
-
-Berry A. S., Zanto T. P., Clapp W. C., Hardy J. L., Delahunt P. B., Mahncke H. W., Gazzaley A. (2010). The influence of perceptual training on working memory in older adults. PLoS ONE 5, 1–810.1371/journal.pone.0010771 [Cross Ref]
-
-Castel A. D., Pratt J., Drummond E. (2005). The effects of action video game experience on the time course of inhibition of return and the efficiency of visual search. Acta Psychol. (Amst.) 119, 217–23010.1016/j.actpsy.2005.02.004 [PubMed] [Cross Ref]
-
-Clark K., Fleck M. S., Mitroff S. R. (2011). Enhanced change detection performance reveals improved strategy use in avid action video game players. Acta Psychol. (Amst.) 136, 67–7210.1016/j.actpsy.2010.10.003 [PubMed] [Cross Ref]
-
-Chisholm J. D., Hickey C., Theeuwes J., Kingston A. (2010). Reduced attentional capture in video game players. Atten. Percept. Psychophys. 72, 667–67110.3758/APP.72.3.667 [PubMed] [Cross Ref]
-
-Donohue S. E., Woldorff M. G., Mitroff S. R. (2010). Video game players show more precise multisensory temporal processing abilities. Atten. Percept. Psychophys. 72, 1120–112910.3758/APP.72.4.1120 [PMC free article] [PubMed] [Cross Ref]
-
-Green C. S., Bavelier D. (2003). Action video game modifies visual selective attention. Nature 423, 534–53710.1038/nature01647 [PubMed] [Cross Ref]
-
-Green C. S., Bavelier D. (2006a). Effect of action video games on the spatial distribution of visuospatial attention. J. Exp. Psychol. Hum. Percept. Perform. 1465–1468 [PMC free article] [PubMed]
-
-Green C. S., Bavelier D. (2006b). Enumeration versus multiple object tracking: the case of action video game players. Cognition 101, 217–24510.1016/j.cognition.2005.10.004 [PMC free article] [PubMed] [Cross Ref]
-
-
-Green C. S., Pouget A., Bavelier D. (2010). A general mechanism for learning with action video games: improved probabilistic inference. Curr. Biol. 20, 1573–1579210.1016/j.cub.2010.07.040 [PMC free article] [PubMed] [Cross Ref]
-
-Hertzog C., Kramer A. F., Wilson R. S., Lindenberger U. (2009). Enrichment effects on adult cognitive development. Psychol. Sci. Public Interest 9, 1–65
-
-Irons J. L., Remington R. W., McLean J. P. (2011). Not so fast: rethinking the effects of action video games on attentional capacity. Aust. J. Psychol. 63 [Epub ahead of print]. 10.1111/j.1742-9536.2011.00001.x [Cross Ref]
-
-
-
-
-
-
-There is also some research on how spatial orientation in game relates to performance. For example, Drachen et al. (2014) researched different ways in which the spatio-temporal behavior of teams varies across four different tiers of skills. They discovered that spatio-temporal behaviour of MOBA teams is highly related to the team's skill level both in terms of changing position around the terrain, and in the distance between the heroes played by the team members. 
-Other researchers have also tackled the question of what makes video game teams perform well. Pobiedina, Neidhardt, Calatrava Moreno and Werthner (2013) used data from a MOBA called DotA2 and its community to asses factors for team success. They discovered that the factors influencing a team's success (ranked by significance) were the number of team members that identified as each other's friends, or the social ties within the team; the team's "hero score" - how well the chosen heroes performed when it came to their win/defeat ratio or the amount of resources they could gather in game; and the team's experience score as an aggregate measure of experience of the team members.
-Much less research exists on whether and how cognitive skills contribute to performance across different skill tiers, but it is meaningful to look at contributions of cognitive skills since they fall into a gap in current research, and because they bridge between behavioral factors in game - e.g. the spatio-temporal functions described by Drachen et al. (2014) - and the social factors identified as significant by Pobiedina et al. (2013). It makes sense to assume that social processes within the team and the players' cognitive skills are what drive the performance on a behavioral level. 
-
-
-N. Pobiedina, J. Neidhardt, M. d. C. Calatrava Moreno & H. Werthner (2013). Ranking factors of team success in Proc. of the 22nd international conference on World Wide Web companion. International World Wide Web conferences Steering Committee, 2013, pp. 1185-1194.
-
-Drachen, A., Yancey, M., Maguire, J., Chu, D., Yuhui Wang, I., Mahlmann, T., Schubert, M. & Klabajan, D. (2014) 
-Skill-Based Differences in Spatio-Temporal Team Behaviour in Defence of The Ancients 2 (DotA 2) (Inproceeding)
-Proceedings of the IEEE Games, Entertainment, and Media (GEM) Conference 2014.
 
 
 
