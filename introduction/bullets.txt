@@ -1,15 +1,25 @@
-- sample sizes in prior research are small
-- unclear cut-off points between novice vs. expert players
-- fuzzy differences between video game genres, experts recruited from a number of different genres
-- gender differences in novice vs. expert player split (e.g. Boot et al. (2008) - all experts and novices male, all controls female)
+
+Structure:
+
+1. Why research video games
+    a) video games lend themselves to research:
+        - easy-to-acquire teams for team cognition research
+        - intrinsically motivated experts in their native niche
+        - 'expertness' and 'level of performance' are already quantified
+        - easily accessible samples for web-based experiments
+    b) sports for sports psychology, e-sports for e-sports psychology
+        - professional gamers train several hours a day, attend competitions similar to athletes, and despite of the component of psychomotor strength and stamina associated with sports, they can benefit from techniques similar to those used in sport psychology. The obvious differences between the tasks and performance between e-sports and normal sports only justify the necessity of researching e-sports individually, as an addition to traditional sports psychology.
 
 
-When it comes to studying cognitive skills and video game play, there is quite a large body of literature looking into video game training effects on different cognitive abilities (e.g. Maillot, Perrot and Hartley (2012); Feng, Spence and Pratt (2007); Guha, Jereen. DeGutis & Wilmer (2014); Best (2012); Green & Bavelier (2003); Green & Bavelier (2007)), and comparisons between expert and novice players as well as between people who regularly play video games vs. people who do not play video games (e.g. Anderson, Bailey and West (2012); Boot, Framer, Simons, Fabiani and Gratton (2008); Dye, Green and Bavelier (2009), Green & Bavelier (2003); Green & Bavelier (2007); Colzato, van Leeuwen, van den Wildenberg and Hommel (2010); Karle, Watter and Shedden (2010)).
+2. Gaps in existing video game research
 
++ problems in existing research
 
-There is also some research on how a team's behavior during game play relates to performance. For example, Drachen et al. (2014) researched different ways in which the spatio-temporal behavior -- the tendency of the players within a team to move around on the game area as a response to events that were taking place in game -- varies across teams with different levels of skill. They discovered that spatio-temporal behavior of teams in a MOBA game called DotA2 is highly related to the team's skill level both in terms of changing position around the terrain, and in the distance between the characters played by the team members. 
-Other researchers have also tackled the question of what makes video game teams perform well. Pobiedina, Neidhardt, Calatrava Moreno and Werthner (2013) used data from DotA2 and its community to asses factors for teams' differential performance. They discovered that the factors influencing a team's success (ranked by significance) were the number of team members that identified as each other's friends, or the social ties within the team; the team's "hero score" - how well the chosen heroes performed when it came to their win-loss ratio or the amount of resources they could gather in game; and the team's experience score as an aggregate measure of experience of the team members.
-Much less research exists on whether and how cognitive skills contribute to performance across different skill tiers, but it is meaningful to look at contributions of cognitive skills since they fill a gap in current research, and because they bridge between behavioral factors in game - e.g. the spatio-temporal functions described by Drachen et al. (2014) - and the social factors identified as significant by Pobiedina et al. (2013). It makes sense to assume that social processes within the team and the players' cognitive skills are what drive the performance on a behavioral level. 
+ FIRST TWO NOT IN ARTICLES, only thesis -> write this into a separate article?
+
+3. MOBAs and League of Legends
+
+4. Intention of the current study
 
 
 
