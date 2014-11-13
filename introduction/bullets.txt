@@ -20,6 +20,14 @@ Structure:
 3. MOBAs and League of Legends
 
 4. Intention of the current study
+- add to the relatively modest body of academic literature on MOBAs
+- identify cognitive skills relevant to gameplay in MOBAs
+    Implications for:
+        - defining instrumentation for training studies
+- see how cognitive skills and team cohesion work together to predict team performance
+    Implications for:
+        - psychology in e-sports
+        - game design
 
 
 

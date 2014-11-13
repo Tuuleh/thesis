@@ -1,0 +1,17 @@
+4. Intention of the current study
+- see how cognitive skills and team cohesion work together to predict team performance
+    Implications for:
+        - psychology in e-sports
+        - game design
+            - if performance appears unrelated to cognitive skills, it must be that team cohesion and social processes are more important
+
+- identify cognitive skills relevant to gameplay in MOBAs
+    Implications for:
+        - defining instrumentation for training studies
+- add to the relatively modest body of academic literature on MOBAs
+
+The intention of this study was to observe how cognitive skills and team cohesion together work to predict team performance and task load in League of Legends. The findings have implications for MOBA e-sports as well as for game design.
+
+The intention was also to identify some of the cognitive skills relevant to gameplay in MOBAs. This would have implications for guiding selection of relevant skills and instruments for training studies.
+
+Finally, my intention was also to contribute to the relatively modest body of academic literature on MOBAs. A vast community of millions of active players and culture of its own should be subject to academic curiosity.

@@ -1,6 +1,6 @@
 INSTRUMENTS
 
-All of the instruments were written in JavaScript on top of the Node.js platform, with Express web-framework, hosted on a Digital Oceans server in San Francisco. The spatial working memory task was written as a stand-alone application, and modified plugins of the jsPsych-library (de Leeuw, 2014) were used for the other experiments. All of the experiments, the plugins, the back end structure and descriptions of the dependencies for the experiment can be found in Pöllänen (2014). The participants were asked to use a mouse, but in the absence of one, all of the tasks could be completed with a trackpad. Access with mobile devices was blocked to all parts of the experiment to make sure that data was comparable across participants.
+All of the instruments were written in JavaScript on top of the Node.js runtime environment, with Express web-framework, hosted on a Digital Oceans server in San Francisco. The spatial working memory task was written as a stand-alone application, and modified plugins of the jsPsych-library (de Leeuw, 2014) were used for the other experiments. All of the experiments, the plugins, the back end structure and descriptions of the dependencies for the experiment can be found in Pöllänen (2014). The participants were asked to use a mouse, but in the absence of one, all of the tasks could be completed with a trackpad. Access with mobile devices was blocked to all parts of the experiment to make sure that data was comparable across participants.
 
 
 INVENTORIES
@@ -21,7 +21,7 @@ Individual Attractions to the Group–Task (ATG-T) conceptualizes a member's fee
 
 TLX
 
-The NASA Task Load Inventory (TLX) was selected as a well-established, short inventory with good metric characteristics (Hart & Staveland, 1988; Hart, 2006). The instrument originally consisted of two parts. In the first part, six sub-scales are presented on a single page, with the following description of each of the scale:
+The NASA Task Load Inventory (TLX) was selected as a well-established, short task load inventory with good metric characteristics (Hart & Staveland, 1988; Hart, 2006). The instrument originally consisted of two parts. In the first part, six sub-scales are presented on a single page, with the following description of each of the scale:
 
     Mental Demand: How much mental and perceptual activity was required? Was the task easy or demanding, simple or complex?
     Physical Demand: How much physical activity was required? Was the task easy or demanding, slack or strenuous?
@@ -42,6 +42,7 @@ Flanker task
 Two conflict-tasks have previously been used in game studies: varying versions of the Eriksen flanker task (Eriksen & Eriksen, 1974) and the Stroop-task. The Stroop task has been used before by e.g. Maillot, Perrot and Hartley (2012); and Anderson, Bailey and West (2012). Maillot et al. (2012) found that older adults in their study improved significantly in their performance on resisting the interference following video game play. Anderson et al. (2010) compared players with different levels of experience and discovered no difference between less experienced and more experienced gamers in the Stroop interference effect, but did find a negative association between video game experience and proactive cognitive control. 
 
 Since my participant pool is international, I decided for the flanker task, as the fact that the participants are not all native speakers of English could influence the amount of interference in the Stroop task. A variation of the flanker task -- Attentional Network Test, or ANT -- was used by Dye, Green and Bavelier (2009), who discovered that action video game players made faster correct responses to incongruent trials. Best (2012) used a children's version of the ANT to discover that exergaming enhances children's speed in resolving interference from conflicting visuospatial stimuli. The Flanker task used for this experiment was programmed roughly in a similar manner to the Flanker task in the PEBL library (Mueller & Piper, 2014), which was based on Stins, Polderman, Boomsma and deGeus (2007). During the task, the participant is presented with images of five arrows in a row. Their task is to press the arrow key corresponding to the direction of the middle arrow, which points either to the same direction as the arrows flanking it (a congruent trial) or to the opposite direction (incongruent trial). 
+WHAT MEASURES CAN YOU GAIN FROM THE FLANKER TASK?
 
     
 A two-dimensional mental rotation task.
@@ -60,6 +61,16 @@ The spatial span task was programmed similar to that of Owen and Hampshire (n.d.
 
 
 the Tower of London test.
+WHAT DOES THE TOWER OF LONDON TEST MEASURE?
+READ UP ON https://neuropsychological-assessment-tests.com/sites/default/files/Tower%20of%20London%20Manual.pdf
+
+... from there:
+some researchers use the number of excess moves to measure performance while others use a perfect solution 
+score (the number or percentage of problems correctly solved using the minimum number of moves), the total cognition time (this variable represents the total time that the participant is not holding a bead after the first move is made), the initial think time 
+(this represents the time from when the problem is first displayed to when the first move is made), or the total move time (the amount of time that the participant spends—per problem—holding onto a bead). Given that a wide range of dependent measures have 
+been used to evaluate the various aspects of planning and problem solving  performance, one must use caution when interpreting the findings and making  inferences about the development and decline of problem solving ability. The  computerized SANZEN TOL computes the typical dependent variables used in studies  examining TOL performance. The results printout for the SANZEN TOL test gives the  number of excess moves for each problem, the initial think time before the initial move  is made for each problem, the total think time on each problem, and the time taken to successfully complete each problem. 
+
+
     Boot, Framer, Simons, Fabiani and Gratton (2008) used the London Tower test. Unfortunately, the authors did no comparison between expert and novice gamers, but only looked at their longitudinal training groups, all of which improved the same. I decided to use the Tower of London despite of of its low presence in prior literature, because gameplay in League of Legends often involves the planning and execution of abilities or behaviors in a meaningful sequence in a setting where speed and accuracy is important.
 
     The Tower of London task consists of twenty-two pairs of images. The first image, image A, displays a starting point with three pegs of different lengths and of three balls of different colors, and image B displays an ending point with a final layout. The participant was asked to assess the smallest amount of moves they could use to get from the layout in image A to the layout in image B, and to respond by pressing the corresponding key on the keyboard. The moves required for the trials varied between one and six.

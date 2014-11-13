@@ -1,0 +1,40 @@
+
+Multiplayer online battle arenas (MOBA) are a relatively video game genre with a surprisingly long history, a vast and enthusiast community, and in recent years, a huge role in the emergence of Electronic sports (esports) - highly competitive and popular video game events where the best players in their game compete for often substantial rewards. Research on MOBA-style games has greatly increased in the recent couple of years, but the area is still relatively unexplored by academics (Ferrari, 2013). 
+
+Most MOBAs only have one arena that players can compete upon, and the layout for that arena typically does not change, unless it needs to be patched due to some game play balance issues. League of Legends offers its players a few maps with static layouts, each with slightly different play style. The most popular of the maps is called the Summoner's Rift. A map for it can be viewed in Figure 1, with annotations for how different locations of the map are called. Players within a team typically "specialize" in a role, a location, or both, with relatively little variability from game to game. 
+
+Figure 1. A map explaining the layout and the different areas in the Summoner's Rift.
+[MAP IMAGE BY NARISHM]
+Note. Map drawn by Narish, reproduced with permission. Fix this citation later. Source: http://narishm.deviantart.com/art/League-of-Legends-Summoner-s-Rift-Regions-Map-413345149
+
+League of Legends offers a few different options for gameplay. All players can engage in "Normal" games - unranked games against either a team of players or opponents controlled by artificial intelligence, where the game outcome does not impact players' in-game ranking, but does contribute to the players' level by accumulating experience points. All players, also called summoners, start at level 1, and gain levels by playing normal games. Once the player reaches the maximum level of thirty and has access to at least sixteen champions (in-game characters) - either through purchasing them or by spending points gained during gameplay - they are eligible for ranked games. 
+
+Ranked games are the competitive alternative of normal games - a draft mode game type, where players battle in teams and get placed on a game ladder according to their wins and losses against other players [WIKI CITATION]. Once they begin with ranked games, players begin with ten placement games to establish a match-making rating, which is used to match them with equally skilled opponents and adjusted according to wins and losses. Players belong to six tiers, the lowest being Bronze, and may progress through Silver, Gold, Platinum, Diamond and Challenger, depending on their success against opponents of different skill level. Each tier, other than Challenger, is further split into five divisions. Players must win a best-of-three Division Series to move up a division, or a best-of-five Promotion Series to move up a tier [LOL.COM CITATION]. Once the player gains a tier, they cannot lose it except by four weeks of insufficient play in the particular ranked mode (non-premade, three-versus-three or five-versus-five) [WIKI CITATION]. 
+
+http://na.leagueoflegends.com/en/competitive/ranked-leagues
+
+Three independent play modes exist for ranked games, and so players can have a total of three different rankings. Two modes are for premade teams, where players queue in organized teams, and the third mode is for non-premade teams. For the premade teams, players can queue in a team of three people (three-versus-three), or in a team with five people (five-versus-five), and in the non-premade teams, players queue either alone (Solo-queue) or with one other person (Dual-queue), and the team is topped up with random players with similar match making rating. 
+
+Reaching level thirty can take a few months of casual play and due to the level requirement, most ranked players should already have sufficient experience to master the basics of the gameplay. The tiers and divisions can be used as a measure of gameplay performance, and since players' rankings are derived from pvp encounters, this measure of game performance is the outcome of direct comparisons between players and their teams. From this perspective, the differences between ranked League of Legends players can be used to research what characteristics impact the performance outcomes of individuals with a tangible level of expertise in their particular domain. Essentially, these are not so much comparisons of expert and novice players, but comparisons between players of different skill with a considerable level of experience.
+
+Teams with higher performance can thus be considered expert teams for team cognition research.
+
+
+
+
+
+
+
+
+Cooperation is an extremely important aspect of performance in MOBA, because the game style contains a compounding cost of poor game play decisions (Ferrari, 2013). A poor decision in game causes a snow-ball effect on the team's performance. For instance, a player dying in game grants large quantities of gold to the opposite team's players, and they use it for gear upgrades and other boosts that make their champions more powerful. Hasty or aggressive decisions without the coordination of the team lead to unfortunate outcomes for the entire team (Lanz, 2013). On the other hand, a bold, swift move with good team coordination behind it can propel the situation into the opposite direction, and cause a negative snowball effect to roll on the opposite team's side. To assess the team's level of coordination and cooperation, I decided to administer a team cohesion inventory that assesses both social and task-oriented group integration and involvement.
+
+
+Lantz, J. (2013). “The Snowball Effect: DotA vs. Hokra.” In Machinam, 16 April
+2012, http://www.decisionproblem.com/inmachinam/?p=82.
+
+Ferrari, S. (2013) From Generative to Conventional Play: MOBA and League of Legends, Proceedings of DiGRA 2013: DeFragging Game Studies, Volume 1 (1), 1-17.
+
+
+
+
+
