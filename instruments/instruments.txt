@@ -42,6 +42,7 @@ Flanker task
 Two conflict-tasks have previously been used in game studies: varying versions of the Eriksen flanker task (Eriksen & Eriksen, 1974) and the Stroop-task. The Stroop task has been used before by e.g. Maillot, Perrot and Hartley (2012); and Anderson, Bailey and West (2012). Maillot et al. (2012) found that older adults in their study improved significantly in their performance on resisting the interference following video game play. Anderson et al. (2010) compared players with different levels of experience and discovered no difference between less experienced and more experienced gamers in the Stroop interference effect, but did find a negative association between video game experience and proactive cognitive control. 
 
 Since my participant pool is international, I decided for the flanker task, as the fact that the participants are not all native speakers of English could influence the amount of interference in the Stroop task. A variation of the flanker task -- Attentional Network Test, or ANT -- was used by Dye, Green and Bavelier (2009), who discovered that action video game players made faster correct responses to incongruent trials. Best (2012) used a children's version of the ANT to discover that exergaming enhances children's speed in resolving interference from conflicting visuospatial stimuli. The Flanker task used for this experiment was programmed roughly in a similar manner to the Flanker task in the PEBL library (Mueller & Piper, 2014), which was based on Stins, Polderman, Boomsma and deGeus (2007). During the task, the participant is presented with images of five arrows in a row. Their task is to press the arrow key corresponding to the direction of the middle arrow, which points either to the same direction as the arrows flanking it (a congruent trial) or to the opposite direction (incongruent trial). 
+The measures gained on the Flanker task are the speed and accuracy in responding to congruent vs. incongruent trials. Difference between the response time in correct congruent and incongruent trials is a rough measure of executive function, as it indicates the strength of the interference effect. [CITATION?]
 WHAT MEASURES CAN YOU GAIN FROM THE FLANKER TASK?
 
     
@@ -95,7 +96,7 @@ de Leeuw, J.R. (2014). jsPsych: A JavaScript library for creating behavioral exp
 
 Hart, S. (2006). Nasa-Task Load Index (Nasa-TLX); 20 Years Later. Human Factors and Ergonomics Society Annual Meeting Proceedings, 50, 904-908.
 
-Pöllänen, T. (2014). Test battery of JS cognitive tasks written using jsPsych for my master's thesis. Github repository. Retrieved from https://github.com/tuuleh/masters-battery.
+Pöllänen, T. (2014). Test battery of JavaScript cognitive tasks written using jsPsych for my master's thesis. Github repository. Retrieved from https://github.com/tuuleh/masters-battery.
 
 Owen, A. M. & Hampshire, A. (n.d.). Spatial span ladder [software for online web-based testing]. Cambridge Brain Sciences Inc, University of Western Ontario, Canada. Retrieved from http://www.cambridgebrainsciences.com/browse/memory/test/spatial-span-ladder. 
 

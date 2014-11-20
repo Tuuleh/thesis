@@ -38,3 +38,23 @@ Ferrari, S. (2013) From Generative to Conventional Play: MOBA and League of Lege
 
 
 
+
+LEAGUE SYSTEM FROM http://leagueoflegends.wikia.com/wiki/League_system
+
+League system is a ranking system to find other players of a similar skill level to play with or against. In seasons one and two, the system used a single ladder with ranking determined by Elo rating system. In season three, the system uses six tiers with five divisions per tier, where ladder rankings within a league are determined by League Points (LP) and hidden Match Making Rating (MMR). In season 4, a new tier between Challenger and Diamond I has been added: the Master tier.
+
+Each ranked game you win earns you League Points while each lost one decreases your current LP. The exact amount of lost or earned League Points per game depends on your hidden Match Making Rating. If you have higher MMR than a set amount for your division you gain more LP per won game and lose less LP per lost game, if your MMR is lower you gain less and lose more LP per game.
+
+There is also League Points inactivity decay over time, by a set amount, if you haven't played ranked in 28 days or 10 days if you are in Master or Challenger Tier. It decays per the set amount every 7 days afterwards until you play a ranked game. The amount of LP that you lose per decay period depends on the tier that you're in:
+
+Bronze - 0
+Silver - 0
+Gold - 0
+Platinum - 35
+Diamond - 50
+Master & Challenger - 250
+Notes:
+
+While you're inactive, you're hidden from the ladder view for everyone except yourself.
+Match Making Rating doesn't decay when LP decay occurs.
+Promotions Series will end after 28 days (even if you play games within 28 days)
