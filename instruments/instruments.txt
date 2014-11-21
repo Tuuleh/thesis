@@ -19,6 +19,13 @@ Individual Attractions to the Group–Social (ATG-S) conceptualizes to the membe
 
 Individual Attractions to the Group–Task (ATG-T) conceptualizes a member's feelings about personal involvement related to the group's common goals and productivity - for instance, “I do not like the style of play on this team”. 
 
+
+----------------
+My analyses did not support the four-factor structure in the original inventory, so I searched for optional solutions with different factor analytic procedures. An exploration through parallel analysis, optimal coordination and acceleration factor on R suggested between one and three factors. A comparison between different solutions netted very similar results, with two strong factors - a task-related factor that subsumed items from ATGT and GIT, and a slightly weaker socially oriented factor that subsumed ATGS and GIS. The exceptions were items 2 and 11 - 2 did not have a good loading on either component, and 11 loaded on the task-related component, despite of originally being an item on the social scale. Item number two sounds "I'm not happy with the play time I get", and it could simply be that it lacks validity for the e-sports context, where playrs do not get benched the same way as they do in traditional sports. In a casual context, players get plenty of play time, since the team cannot engage in games without them being present. Item number 11 is the following: "Members of our team would rather go out on their own than get together as a team." In the original inventory, this refers to socialization with the team. In an online games context, this item is easier to interpret so that the individual team members rather play solo games than queue together with the team, making it a task-related item.
+
+A promax-rotated two-factor solution with the following characteristics:
+----------------
+
 TLX
 
 The NASA Task Load Inventory (TLX) was selected as a well-established, short task load inventory with good metric characteristics (Hart & Staveland, 1988; Hart, 2006). The instrument originally consisted of two parts. In the first part, six sub-scales are presented on a single page, with the following description of each of the scale:
