@@ -1,0 +1,41 @@
+Call:
+factanal(x = mydata, factors = factors, rotation = rotation)
+
+Uniquenesses:
+ GEQ2  GEQ4  GEQ6  GEQ8  GEQ1  GEQ3  GEQ5  GEQ7  GEQ9 GEQ11 GEQ13 GEQ15 GEQ17 GEQ10 GEQ12 GEQ14 GEQ16 GEQ18 
+ 0.85  0.54  0.73  0.36  0.90  0.79  0.53  0.76  0.76  0.74  0.63  0.47  0.35  0.69  0.67  0.59  0.56  0.72 
+
+Loadings:
+      Factor1 Factor2
+GEQ4   0.73          
+GEQ6   0.53          
+GEQ8   0.88          
+GEQ11  0.50          
+GEQ10 -0.59          
+GEQ12 -0.53          
+GEQ14  0.63          
+GEQ16 -0.52          
+GEQ5          -0.77  
+GEQ9          -0.53  
+GEQ13          0.62  
+GEQ15         -0.77  
+GEQ17          0.82  
+GEQ2                 
+GEQ1                 
+GEQ3           0.42  
+GEQ7           0.38  
+GEQ18  0.48          
+
+               Factor1 Factor2
+SS loadings       3.58    3.08
+Proportion Var    0.20    0.17
+Cumulative Var    0.20    0.37
+
+Factor Correlations:
+        Factor1 Factor2
+Factor1    1.00    0.47
+Factor2    0.47    1.00
+
+Test of the hypothesis that 2 factors are sufficient.
+The chi square statistic is 374.18 on 118 degrees of freedom.
+The p-value is 2.07e-28 
