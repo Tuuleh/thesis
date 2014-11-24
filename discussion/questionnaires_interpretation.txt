@@ -15,3 +15,5 @@ Surprising: the lack of association between cognitive functions and performance 
 18 3v3 teams and 51 5v5 teams
 - 3v3 teams are more rare, and when asked, many players reported using them as a fall-back for when 5v5 games were not an option.
     - consequently, results for the 5v5 teams are likely more reliable
+
+    

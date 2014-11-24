@@ -1,0 +1,14 @@
+- age 
+- gender
+- split by region
+- number of team players (3v3, 5v5), number of solo players
+- tiers and divisions of team and solo players
+
+PARTICIPANTS
+The participants were a total of 278 League of Legends-players. A total of 218 players were considered for this study, as the rest were under level 30 or reportedly did not engage in ranked games. The final pool of participants ranged between ages 45 and 15 (M = 21.42, SD = 4.15).
+The players were mostly from the Western EU (N=17) and North America (N=113) regions, with a minority of players from EU-North and East (N=17), Latin America (N=5), New Zealand (N=7) and Turkey (N=2).
+206 of the participants engaged in ranked games in the solo bracket, 51 played 5-versus-5 games, and 18 3-versus-3 games. Out of the team players, 47 also played in the solo bracket.
+
+
+br eune  euw  lan  las   na   nz   tr 
+   2   17   74    2    1  113    7    2 
