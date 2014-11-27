@@ -1,9 +1,9 @@
-4. Intention of the current study
+Intention of the current study:
 - see how cognitive skills and team cohesion work together to predict team performance
     Implications for:
         - psychology in e-sports
         - game design
-            - if performance appears unrelated to cognitive skills, it must be that team cohesion and social processes are more important
+            - if performance appears unrelated to cognitive skills, other processes need more exploration
 
 - identify cognitive skills relevant to gameplay in MOBAs
     Implications for:

@@ -1,0 +1,73 @@
+WEB TECHNOLOGIES SECTION FOR PRESENTATION
+
+TECHNICAL ASPECTS
+    - Technical shortcomings were not nearly as bad as I'd feared
+        - no differences in response times between participants of different regions
+    - I did drop out an experiment that had animation (the time-wall task) because of significant jitter even when running locally (Java)
+        - it'd be interesting to look at how limiting frames per second and motion blur influence motion perception [INSERT FPS GIF]
+    - I think it's incredible that the exploration of JavaScript as a viable language for web-based experiments has taken this long
+        - There are barely any publications, and I had to rely on work in press by Josh De Leeuw to assess the scope of response time accuracy
+    - I think it's important to explore new technologies despite of the fear of not being able to reject a null hypothesis
+        - Psychology as a science should follow technological developments 
+            - e.g. try lexical studies as a big data problem
+            - cognitive tests on mobile devices or VR
+        - Take more advantage of already existing data 
+            - guaranteed better ecological validity
+            - web experiments are perfect for this - use APIs for your battery
+
+SHORTCOMINGS (based on own experience)
+- 'some' back-end considerations
+- combining data from web and lab studies
+- All the shortcomings of web-based survey research:
+    - participant drop-out
+    - invalid responses
+    - submitting false data
+    - multiple entries
+    - self-selective sample
+    - ...
+- ... and more
+    - invalid response times
+    - bugs (and poor bug reports)
+    - different hardware
+    - mobile access (!!)
+    - confounding environmental variables
+    - batteries are longer and strenuous than in survey research -> question of motivation
+-> Extremely important to motivate participants
+    - inform (study, duration, instructions about participation)
+    - be available
+    - emphasize that you value their time
+    - give feedback
+    - utilize CAT 
+        - less time for smaller standard error
+    - try some gamification
+
+
+
+
+HOW TO MOTIVATE PARTICIPANTS
+
+Scope is the usual excuse cited as the reason for utilizing a web-based experiment. Using one gives you access to a significantly larger participant pool. But scope is not enough, if your participants are amotivated, drop out or tend to guess and give invalid responses because the tasks are tiring - what you want is engagement. 
+
+One of the problems cited for web-based experiments is the drop out. Myself, I think that data gained from a colorful but self-selecting volunteering population is in a way still more valuable than data gained from an unmotivated pool of psychology students who participate simply because they will not receive course credit if they don't. But drop out does happen and it is a problem, and as someone looking to maximize the scope of your research, you have to deal with it, especially since it may be non-random - e.g. participants might tend to drop out in a particular test during the battery because they are performing particularly poorly in that exact task - and so it might skew your data. One can always resort to analyzing and describing the sample that dropped out after submitting demographic information, but this is only sufficient to describe the problem and discuss it as a shortcoming, it is not a solution to mitigate the issue. You can also incentivise participation by offering rewards, but this obviously takes funds, and is subject to ethical inquiries (e.g. http://www.ethicsguidebook.ac.uk/Compensation-rewards-or-incentives-89). 
+
+One could also motivate people to participate just for the sake of it, and what better context to do it than the web, where you already have access to a huge pool of people. This isn't quite as impossible as it sounds, but it requires a change of attitude. The first consideration is to think of yourself not only as a researcher, but as a product owner.
+
+Developing a web-based experiment is much like developing and launching a product in a start-up. For a moment, stop thinking of yourself as an academic. Instead, you have your own company - you're the developer, the product team, and you do the sales. Think of your experiment as a product. Participants are your users - quite literally. In the industry, you would approach them with your product or service, and they would assess whether it is worth their investment. With an experiment, you approach them with a request for participation, and they assess whether it is worth their time. You have to consider possible use cases for your product - whom it might benefit, who is your primary audience, what marginal strata exists that might be interested without you foreseeing it. These are your possible participant pools, and what characteristics will allow you to classify your participants into these different strata. If you need a good cross-section of the entire population, think of the different ways you approach different strata - different subpopulations need a different approach, through different channels, using different language. Here is the first difference from production: the underlying message needs to be the same, the procedure needs to be the same, and the results need to be comparable, so in the end, only relatively cosmetic features can be customized. This can still carry you pretty far, if you get creative. 
+
+Minimizing 'unnecessary' dropout is a question of user experience design, and user experience design is not only about usability, but also about engagement. It can be considered e.g. through Herzberg's motivation-hygiene theory (Herzberg, Mausner & Snyderman, 1959). To explain Herzberg very shortly, he argued that task satisfaction and dissatisfaction function separately of each other. Hygiene factors are things that cause no satisfaction, but do cause dissatisfaction in their absence. For example, having a bug-free task with good instructions is a hygiene factor. Motivators on the other hand are things that give positive satisfaction - things such as a beautiful UI and extrinsic rewards.
+
+The first thing you need to do is to care for hygienic factors. Polish your user experience to a degree where there is nothing intrinsic to the design that would irritate the user sufficiently to cause them to quit. It is possible that the user will still drop out because the battery is too long or because the task is too difficult, but if they drop out because the instructions are poorly written or because the web page lacks usability, a participant and their invaluable data is lost for absolutely no reason. Additionally, data from the participants who do finish the experiment despite of the unfavorable conditions will be littered by artifacts that might be there simply due to limited usability. 
+
+It can save a lot of time to do even the simplest usability studies before launch. It could be enough to administer the battery just to a couple of volunteering participants, ask them for a bit of feedback, try the talk-out-loud protocol with a fellow researcher. But one should not launch blindly, because this is where the research process differs from production in a very important way - there is no iterative development process. Once the experiment it's launched, it's up. It can be improved next-time around, but no-one goes altering their instrumentation in the middle of sampling. 
+
+A while ago, I participated in a poorly designed experiment, where I had to click dots to produce lines between them on a map, with the instruction to connect all of the dots so that the total length of the line was as short as possible. The stimulus was stacked into the lower left quadrant of the screen, the dots were very small and it required quite a bit of maneuvering to click them, and if I clicked on the wrong place, the entire figure would disappear. On top of this, there was a distracting clock constantly ticking on the left side panel, the colors were very conflicting, and after four trials of the experiment, I noticed there were buttons with features that had not even been presented in the training trials, such as an option to import a previously used pattern (which, upon clicking, deleted the pattern I had just completed as my previous trial had been submitted with an empty response due to pattern disappearing bug). Needless to say, it was infuriating, I dropped out and sent e-mail to the authors recommending some improvements. Your participants will do the same. This is where you do customer support, and it is very important to respond to them. During this study, I received a few bug reports and requests for improvements. I tried my best to answer them within the same day, whether it was something I could work with or not. If it was due to an intrinsic characteristic of the task - e.g. dissatisfaction with wording in a standardized instrument or irritation with how the mental rotation tasks were difficult - I would respond telling them that I very much appreciate their feedback and participation despite of it being mentally strenuous, I'd tell them the idea behind the task, and that it's something I unfortunately cannot fix right now. If it was due to a problem with the page, I'd ask for more details and we could typically resolve the problem very quickly (e.g. the participant had scripts turned off in the browser). If it was a genuine bug report with a problem I simply could not reproduce, I apologised for the inconvenience and promised to look to it further. If it was just general curiosity about the study with questions about the instruments, I would answer as soon as possible and try and use clear language to the best of my ability. This is all very, very important, especially if you're sampling from several sources and hoping for a diverse and volunteering participant pool, because it promotes a positive experience with your product and it promotes virality, which is the positive side-effect of self-selecting samples: it is what gives web-experiments their natural scope. I got a very positive response from communicating with participants, and many of the ones I talked to directly said they forwarded the experiment to their friends. The moral of the story is that you can turn a negative product experience, such as frustration about a particular task, into engagement and virality by taking personal contact.
+
+But as I mentioned, some things are out of your control. Test batteries are long and cognitive tasks are mentally straining, by definition. There will always be some level of drop-out that you cannot mitigate, which is why it's also a good idea to take it into account when ordering your test battery. It's best to pipe data throughout the experiment so you can use incomplete data as an addition to full completions, and it's a good idea to have demographic items at the start to have a better comprehension of the characteristics of the praticipants who did drop out.
+
+
+Motivators - maximizing participant engagement! Learn a thing or two from the advertisement industry.
+
+For my previous study, with minimal recruitment, I had a total of 290 participants from a very specific population. The completion rate was at over 56%, which is amazing, when you consider that those 20-30 minutes consist of tasks that require constant vigilance and mental effort and are really no walk in the park, let alone entertaining. Despite of being meant to assess cognitive skills and team cohesion in League of Legends players, the experiment served another purpose. In June, I was in contact with an ad tech company, called Celtra, about product analytics. We met a few times and they told me that one of the very successful features they have had are so-called native ads.
+
+
+Herzberg, F., Mausner, B., and Snyderman, B.B. (1959). The motivation to work. New York: John Wiley & Sons. In Work and the nature of man, F. Herzberg (1973), New York: Mentor Book, p. 91-111.
