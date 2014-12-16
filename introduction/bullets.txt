@@ -2,12 +2,13 @@
 Structure:
 
 1. Why research video games
-    a) video games lend themselves to research:
+    a) culturally topical phenomenon influencing millions of people
+    b) video games lend themselves to research:
         - easy-to-acquire teams for team cognition research
         - intrinsically motivated experts in their native niche
         - 'expertness' and 'level of performance' are already quantified
         - easily accessible samples for web-based experiments
-    b) sports for sports psychology, e-sports for e-sports psychology
+    c) sports for sports psychology, e-sports for e-sports psychology
         - professional gamers train several hours a day, attend competitions similar to athletes, and despite of the component of psychomotor strength and stamina associated with sports, they can benefit from techniques similar to those used in sport psychology. The obvious differences between the tasks and performance between e-sports and normal sports only justify the necessity of researching e-sports individually, as an addition to traditional sports psychology.
 
 

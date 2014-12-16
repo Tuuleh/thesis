@@ -23,3 +23,31 @@ ANALYSES
 Assumedly due to motivational factors, many of the praticipants had partially invalid data. I calculated response times and rates of accuracy for all of the cognitive tasks, and excluded cases where the proportion of accurate responses was below 0.6. I also excluded cases where response times were inadequately short (under 200 milliseconds), or inadequately long (depending on the task - four seconds for the Flanker task, ten seconds for the mental rotation task and twenty seconds for the Tower of London), as this implied that the participant was idle during the experiment. This left quite a few of missing values in the data set.
 
 I decided to conduct some dimension reduction to reduce the number of predicting variables for the cognitive tasks. A scree splot inspection revealed that an acceptable solution could have between two and five principal components, so I tested orthogonal, oblique and unrotated models with a different number of components. As even the components on the oblique solutions were nearly uncorrelated, I chose a four-component model with Varimax rotation due to its interpretability. Because many of the participants had partially incomplete data from the clean-up process and due to the large number of predictive variables, the number of participants would have fallen extremely short if only perfectly complete cases were considered, I performed imputation by replacing missing values on the cognitive tasks with medians, before carrying on with the principal component analysis. 
+
+
+
+Call:
+lm(formula = relative_non_team ~ temporal_demand + effort + frustration, 
+    data = combined, subset = !is.na(relative_non_team))
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.0442  -3.4946  -0.7768   3.4892  15.6614 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     12.71347    1.72814   7.357 1.69e-11 ***
+temporal_demand -0.23183    0.10000  -2.318   0.0220 *  
+effort           0.25849    0.12104   2.136   0.0345 *  
+frustration     -0.21330    0.08506  -2.508   0.0133 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 5.235 on 134 degrees of freedom
+  (68 observations deleted due to missingness)
+Multiple R-squared:  0.07926,   Adjusted R-squared:  0.05865 
+F-statistic: 3.845 on 3 and 134 DF,  p-value: 0.01116
+
+
+
+

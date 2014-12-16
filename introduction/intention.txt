@@ -15,3 +15,5 @@ The intention of this study was to observe how cognitive skills and team cohesio
 The intention was also to identify some of the cognitive skills relevant to gameplay in MOBAs. This would have implications for guiding selection of relevant skills and instruments for training studies.
 
 Finally, my intention was also to contribute to the relatively modest body of academic literature on MOBAs. A vast community of millions of active players and culture of its own should be subject to academic curiosity.
+
+An additional goal was to get experience using JavaScript-based web-experiments and assessing, whether the data gained from them is good for the purpose of a research like this. 
